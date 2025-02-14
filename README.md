@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: the null object reference error (TypeError #1009).  The `bug.as` file contains code that attempts to access a property of an event target without first checking for null. The `bugSolution.as` file provides a corrected version that includes a null check to prevent the error.
